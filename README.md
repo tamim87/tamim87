@@ -6,13 +6,18 @@
 -->
 
 
+<!--   -->
 
+<!--   -->
+<!--   -->
+<!--   -->
 
-<!--
-<p align="left"> <a href="https://twitter.com/__tamim1" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
--->
-
+<!-- ⭐ ⚡ 🔭 🌱 👨‍💻 💬 📫  -->
 - I am a CSE Undergrad at ![Khulna University of Engineering & Technology](https://github.com/MuhiminOsim/MuhiminOsim/blob/main/kuet.ac.bd "KUET")
+<!--  -  I’m currently working on [name](link) -->
+- I am currently learning DS and Algorithms
+<!-- -  All of my projects are available at [https://tamim.co/portfolio](https://tamim.co) -->
+<!-- - Ask me about **C,C++,git** -->
 - Reach me through **noormuhammadtamim@gmail.com**
 
 <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
@@ -39,6 +44,8 @@
       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
     <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a>
+    <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> 
+      <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a>
     <!-- 
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
@@ -64,9 +71,7 @@
   </p><br>
 
 
-<!--
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" > <br>
--->
+<br><br>
 <div id="header" align="right">
   <!--
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
@@ -90,9 +95,14 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/noor-muhammad-tamim/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anirudh-rai-072732220" height="30" width="40" /></a>
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="noor-muhammad-tamim" height="30" width="40" /></a>
   <a href="https://fb.com/profile.php?id=100007356526869 " target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tamim" height="30" width="40" /></a>
+  <a href="https://codeforces.com/profile/__tamim1" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="__tamim1" height="30" width="40" /></a>
+  <a href="https://www.leetcode.com/__tamim1" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="__tamim1" height="30" width="40" /></a>
+  
   <!--
   <a href="https://stackoverflow.com/users/12014753/tamim" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21304875" height="30" width="40" /></a>
@@ -113,8 +123,10 @@
 
 
 
-
----
+<!--
+--- --- ---
+-->
+<hr width="100%">
 <details aligh="left"> 
   <summary> ✌️ My GitHub Analytics </summary><br>
 <p><img width="100%" height="200px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tamim87&show_icons=true&locale=en&layout=compact&theme=radical" alt="tamim87" /></p>
