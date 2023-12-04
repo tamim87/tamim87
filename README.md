@@ -132,7 +132,7 @@
 <p><img width="100%" height="200px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tamim87&show_icons=true&locale=en&layout=compact&theme=radical" alt="tamim87" /></p>
   <br><br><br><br><br><br><br>
 <p>&nbsp;<img width="100%" height="250px" align="left" src="https://github-readme-stats.vercel.app/api?username=tamim87&show_icons=true&locale=en&theme=radical" alt="tamim87" /></p>
-  <br><br><br><br><br><br><br><br><br><br><br>
+  <br><br><br><br><br><br><br><br><br><br><br><br>
 <p><img width="100%" height="250px" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=tamim87&theme=radical" alt="tamim87" /></p>
       <br><br><br><br><br><br><br><br><br><br>
 </details>
