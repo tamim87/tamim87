@@ -1,5 +1,5 @@
 <h1 align="center"> Hi there, I'm Tamim 👋 </h1>
-<h3 align="center">CSE Undergrad, Competitive Programming Enthusiast</h3>
+<h3 align="center">CSE Graduate, Competitive Programming Enthusiast</h3>
 
 
 
@@ -7,7 +7,7 @@
 
 
 <!-- ⭐ ⚡ 🔭 🌱 👨‍💻 💬 📫  -->
-- I am a CSE Undergrad at ![Khulna University of Engineering & Technology](https://github.com/MuhiminOsim/MuhiminOsim/blob/main/kuet.ac.bd "KUET")
+- I am a CSE Graduate from ![Khulna University of Engineering & Technology](https://github.com/MuhiminOsim/MuhiminOsim/blob/main/kuet.ac.bd "KUET")
 <!--  -  I’m currently working on [name](link) -->
 - I am currently learning DS and Algorithms
 <!-- -  All of my projects are available at [https://tamim.co/portfolio](https://tamim.co) -->
