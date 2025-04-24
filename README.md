@@ -75,7 +75,7 @@
 <div>
   <h3 align="left">Connect with me:</h3>
   <p align="left">
-    <a href="https://www.linkedin.com/in/noor-muhammad-tamim/" target="blank">
+    <a href="https://www.linkedin.com/in/tamim87/" target="blank">
       <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="noor-muhammad-tamim" height="30" width="40" /></a>
     <a href="https://fb.com/profile.php?id=100007356526869 " target="blank">
       <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tamim" height="30" width="40" /></a>
