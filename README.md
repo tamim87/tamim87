@@ -81,8 +81,6 @@
       <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tamim" height="30" width="40" /></a>
     <a href="https://codeforces.com/profile/__tamim1" target="blank">
       <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="__tamim1" height="30" width="40" /></a>
-    <a href="https://www.leetcode.com/__tamim1" target="blank">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="__tamim1" height="30" width="40" /></a>  
     <!--
     <a href="https://stackoverflow.com/users/12014753/tamim" target="blank">
       <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21304875" height="30" width="40" /></a>
